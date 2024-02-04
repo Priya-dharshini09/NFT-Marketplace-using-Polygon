@@ -23,12 +23,12 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/polygon-nft-marketplace.git
+
 Install dependencies:
 
 bash
 Copy code
-cd polygon-nft-marketplace
+cd Nft website
 npm install
 Configure environment variables:
 
